@@ -1,0 +1,11 @@
+{
+	"First_name":"Anatoly",
+	"Last_name":"Greck",
+	"Age":31,
+	"pets":{
+		"number":1,
+		"animal_breed":"dog",
+		"name":"Rich"
+	}
+	"desired_salary":"950$"
+}
